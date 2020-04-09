@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "922C5886-AD00-4288-87D7-4740BB9074E1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8D1A85C-677B-412F-BDF9-E8809E76C4C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POCMenuCatalyst/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "validate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6349AB2A-CF44-4115-9FE7-4B316C739ED7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POCMenuCatalyst/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "validate(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6349AB2A-CF44-4115-9FE7-4B316C739ED7 - 9ea77ee08089fbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POCMenuCatalyst.AppDelegate.validate(__C.UICommand) -&gt; ()"
+                  moduleName = "POCMenuCatalyst"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/benoit/Documents/Dev/iOS/POCMenuCatalyst/POCMenuCatalyst/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2413">
+               </Location>
+               <Location
+                  uuid = "6349AB2A-CF44-4115-9FE7-4B316C739ED7 - 9ea77ee08089fbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POCMenuCatalyst.AppDelegate.validate(__C.UICommand) -&gt; ()"
+                  moduleName = "POCMenuCatalyst"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/benoit/Documents/Dev/iOS/POCMenuCatalyst/POCMenuCatalyst/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2821">
+               </Location>
+               <Location
+                  uuid = "6349AB2A-CF44-4115-9FE7-4B316C739ED7 - 9ea77ee08089fbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "POCMenuCatalyst.AppDelegate.validate(__C.UICommand) -&gt; ()"
+                  moduleName = "POCMenuCatalyst"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/benoit/Documents/Dev/iOS/POCMenuCatalyst/POCMenuCatalyst/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "3212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8DEAC1D-07CD-487B-902D-8C8A7D78E958"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "POCMenuCatalyst/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "validate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
